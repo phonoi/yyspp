@@ -72,6 +72,7 @@ header{
     background: #19449A;     
     height: 6rem;
     display: flex;
+    z-index: 99999;
 }
 
 .logo{
@@ -202,6 +203,7 @@ header{
 .swiper-container{
     height: 24rem;
     font-size:0;
+    z-index: 333;
 }
 .swiper-slide {
 	height: 24rem;
